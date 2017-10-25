@@ -1,0 +1,21 @@
+body{
+    font-size: 20px;
+    color: maroon;
+    font-family: 'Indie Flower', cursive;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.antonfont {
+    font-family: 'Anton', sans-serif;
+    color: green;
+
+}
+
+img {
+    width: 50%;
+    height: auto;
+}
+.dots {
+    list-style: none;
+}
